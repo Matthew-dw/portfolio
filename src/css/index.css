@@ -1,0 +1,19 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    background: linear-gradient(90deg, #fee3ff33 0%, #d9e7ff7e 100%), 
+    linear-gradient(0deg, #fce3ff75 0%, #d9e7ffa4 100%);
+}
+/* main div for whole page */
+.main {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
