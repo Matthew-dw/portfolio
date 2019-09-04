@@ -1,17 +1,26 @@
 import React, {useState, useEffect} from 'react';
-import '../../css/titleanimation.css'
-const Title = props => {
-    const [clicked, setClicked] = useState(0);
-    const [keyframe, setKeyframe] = useState(0);
+import SocialMedia from './SocialMedia';
+import '../css/titleanimation.css';
+const Intro = props => {
+    // state for clicking, keyframes and hover
+    const [clicked, setClicked] = useState(props.animationDone);
+    const [keyframe, setKeyframe] = useState(props.animationDone ? 3 : 0);
     const [hover, setHover] = useState(0);
 
     // After the logo is clicked timers are started for each keyframe
     useEffect(() => {
         if (!clicked) return
+        if (keyframe > 0) return
         const timer1 = setTimeout(() => setKeyframe(1), 200);
-        const timer2 = setTimeout(() => setKeyframe(2), 600);
-        return () => clearTimeout(timer1, timer2);
-    }, [clicked])
+        const timer2 = setTimeout(() => setKeyframe(2), 500);
+        const timer3 = setTimeout(() => setKeyframe(3), 1300);
+        return () => clearTimeout(timer1, timer2, timer3);
+    }, [clicked, keyframe])
+
+    // After 3rd keyframe is reached tell parent animation is over
+    useEffect(() => {
+        if (keyframe === 3)props.setAnimationDone(1);
+    }, [keyframe, props])
 
     return (
         <div 
@@ -39,7 +48,8 @@ const Title = props => {
             className='name-animation-background'
             style={{opacity: hover && !clicked ? '1' : '0'}}
             />
+            <SocialMedia keyframe={keyframe} animationDone={props.animationDone} />
         </div>
     )
 }
-export default Title;
+export default Intro;
