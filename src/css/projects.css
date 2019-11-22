@@ -1,19 +1,68 @@
-
-.project {
-    width: 500px;
-    margin: 50px;
-    height: 500px;
-    display: block;
-    background: rgb(52,71,104);
-    border-radius: 3px;
-    box-shadow: 0px -3px 0px 0px rgb(255, 101, 101), 0px 3px 0px 0px rgb(52, 174, 255);
-    overflow: auto;
+.project-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    justify-content: space-evenly;
 }
-.title {
-    width: 90%;
-    background: rgb(80, 108, 156);
-    padding: 5px;
-    margin-top: 15px;
-    margin-left: calc(5% - 5px);
-    border-radius: 2px;
+.project {
+    height: 120px;
+    width: 100%;
+    color: rgb(52,71,104);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    transition: ease-in-out 0.3s;
+}
+.project-body {
+    width: 70%;
+    height: 70%;
+    margin-left: -12px;
+    border-radius: 10px;
+    background: rgb(66,89,129);
+    box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.2), 0px 1px 1px 0px rgba(0,0,0,0.14), 0px 2px 1px -1px rgba(0,0,0,0.12);
+    color: white;
+    border-top: solid 3px rgb(52,174,255);
+    border-bottom: solid 3px rgb(255,104,104);
+}
+.project-logo {
+    height: 120px;
+    width: 120px;
+    display: flex; flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-size: 250%;
+    float: left;
+    z-index: 1;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.2), 0px 1px 1px 0px rgba(0,0,0,0.14), 0px 2px 1px -1px rgba(0,0,0,0.12);
+    transition: 0.2s;
+}
+.project-title {
+    margin-left: 20px;
+    font-size: 20px;
+}
+.project-tech, .project-shorttext {
+    margin-left: 20px;
+}
+.project-img {
+    width: 100%;
+    height: 300px;
+}
+.project-a:hover {
+    background: rgb(251, 246, 252);
+}
+.project-back {
+    position: absolute;
+    color: black;
+    top: 60px;
+    left: 30px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.project-logo:hover {
+    cursor: pointer;
 }
