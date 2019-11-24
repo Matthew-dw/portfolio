@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "matthew-dw.github.io/portfolio/static/css/main.648fd7ce.chunk.css",
-    "main.js": "matthew-dw.github.io/portfolio/static/js/main.3709f279.chunk.js",
-    "main.js.map": "matthew-dw.github.io/portfolio/static/js/main.3709f279.chunk.js.map",
-    "runtime~main.js": "matthew-dw.github.io/portfolio/static/js/runtime~main.b718e191.js",
-    "runtime~main.js.map": "matthew-dw.github.io/portfolio/static/js/runtime~main.b718e191.js.map",
-    "static/js/2.fdd85f1c.chunk.js": "matthew-dw.github.io/portfolio/static/js/2.fdd85f1c.chunk.js",
-    "static/js/2.fdd85f1c.chunk.js.map": "matthew-dw.github.io/portfolio/static/js/2.fdd85f1c.chunk.js.map",
-    "index.html": "matthew-dw.github.io/portfolio/index.html",
-    "precache-manifest.cc49dada31a591227dc441aa6bd63a55.js": "matthew-dw.github.io/portfolio/precache-manifest.cc49dada31a591227dc441aa6bd63a55.js",
-    "service-worker.js": "matthew-dw.github.io/portfolio/service-worker.js",
-    "static/css/main.648fd7ce.chunk.css.map": "matthew-dw.github.io/portfolio/static/css/main.648fd7ce.chunk.css.map"
+    "main.css": "/portfolio/static/css/main.648fd7ce.chunk.css",
+    "main.js": "/portfolio/static/js/main.3709f279.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.3709f279.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
+    "static/js/2.fdd85f1c.chunk.js": "/portfolio/static/js/2.fdd85f1c.chunk.js",
+    "static/js/2.fdd85f1c.chunk.js.map": "/portfolio/static/js/2.fdd85f1c.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.66c008de61c0f4856a17e2570b41ec5f.js": "/portfolio/precache-manifest.66c008de61c0f4856a17e2570b41ec5f.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.648fd7ce.chunk.css.map": "/portfolio/static/css/main.648fd7ce.chunk.css.map"
   }
 }
