@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "matthewwilliams.ca/static/css/main.648fd7ce.chunk.css",
-    "main.js": "matthewwilliams.ca/static/js/main.3709f279.chunk.js",
-    "main.js.map": "matthewwilliams.ca/static/js/main.3709f279.chunk.js.map",
-    "runtime~main.js": "matthewwilliams.ca/static/js/runtime~main.4f150d61.js",
-    "runtime~main.js.map": "matthewwilliams.ca/static/js/runtime~main.4f150d61.js.map",
-    "static/js/2.fdd85f1c.chunk.js": "matthewwilliams.ca/static/js/2.fdd85f1c.chunk.js",
-    "static/js/2.fdd85f1c.chunk.js.map": "matthewwilliams.ca/static/js/2.fdd85f1c.chunk.js.map",
-    "index.html": "matthewwilliams.ca/index.html",
-    "precache-manifest.edb6a01b788db1b8881ff3b0baf0fea5.js": "matthewwilliams.ca/precache-manifest.edb6a01b788db1b8881ff3b0baf0fea5.js",
-    "service-worker.js": "matthewwilliams.ca/service-worker.js",
-    "static/css/main.648fd7ce.chunk.css.map": "matthewwilliams.ca/static/css/main.648fd7ce.chunk.css.map"
+    "main.css": "matthew-dw.github.io/static/css/main.648fd7ce.chunk.css",
+    "main.js": "matthew-dw.github.io/static/js/main.3709f279.chunk.js",
+    "main.js.map": "matthew-dw.github.io/static/js/main.3709f279.chunk.js.map",
+    "runtime~main.js": "matthew-dw.github.io/static/js/runtime~main.3f7d5fbb.js",
+    "runtime~main.js.map": "matthew-dw.github.io/static/js/runtime~main.3f7d5fbb.js.map",
+    "static/js/2.fdd85f1c.chunk.js": "matthew-dw.github.io/static/js/2.fdd85f1c.chunk.js",
+    "static/js/2.fdd85f1c.chunk.js.map": "matthew-dw.github.io/static/js/2.fdd85f1c.chunk.js.map",
+    "index.html": "matthew-dw.github.io/index.html",
+    "precache-manifest.4804ad0943ee80e1c27dfdadb98ab682.js": "matthew-dw.github.io/precache-manifest.4804ad0943ee80e1c27dfdadb98ab682.js",
+    "service-worker.js": "matthew-dw.github.io/service-worker.js",
+    "static/css/main.648fd7ce.chunk.css.map": "matthew-dw.github.io/static/css/main.648fd7ce.chunk.css.map"
   }
 }
