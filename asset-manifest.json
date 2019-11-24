@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "matthewwilliams.ca/static/css/main.648fd7ce.chunk.css",
+    "main.js": "matthewwilliams.ca/static/js/main.3709f279.chunk.js",
+    "main.js.map": "matthewwilliams.ca/static/js/main.3709f279.chunk.js.map",
+    "runtime~main.js": "matthewwilliams.ca/static/js/runtime~main.4f150d61.js",
+    "runtime~main.js.map": "matthewwilliams.ca/static/js/runtime~main.4f150d61.js.map",
+    "static/js/2.fdd85f1c.chunk.js": "matthewwilliams.ca/static/js/2.fdd85f1c.chunk.js",
+    "static/js/2.fdd85f1c.chunk.js.map": "matthewwilliams.ca/static/js/2.fdd85f1c.chunk.js.map",
+    "index.html": "matthewwilliams.ca/index.html",
+    "precache-manifest.edb6a01b788db1b8881ff3b0baf0fea5.js": "matthewwilliams.ca/precache-manifest.edb6a01b788db1b8881ff3b0baf0fea5.js",
+    "service-worker.js": "matthewwilliams.ca/service-worker.js",
+    "static/css/main.648fd7ce.chunk.css.map": "matthewwilliams.ca/static/css/main.648fd7ce.chunk.css.map"
+  }
+}
