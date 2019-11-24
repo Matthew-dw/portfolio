@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "matthew-dw.github.io/static/css/main.648fd7ce.chunk.css",
-    "main.js": "matthew-dw.github.io/static/js/main.3709f279.chunk.js",
-    "main.js.map": "matthew-dw.github.io/static/js/main.3709f279.chunk.js.map",
-    "runtime~main.js": "matthew-dw.github.io/static/js/runtime~main.3f7d5fbb.js",
-    "runtime~main.js.map": "matthew-dw.github.io/static/js/runtime~main.3f7d5fbb.js.map",
-    "static/js/2.fdd85f1c.chunk.js": "matthew-dw.github.io/static/js/2.fdd85f1c.chunk.js",
-    "static/js/2.fdd85f1c.chunk.js.map": "matthew-dw.github.io/static/js/2.fdd85f1c.chunk.js.map",
-    "index.html": "matthew-dw.github.io/index.html",
-    "precache-manifest.4804ad0943ee80e1c27dfdadb98ab682.js": "matthew-dw.github.io/precache-manifest.4804ad0943ee80e1c27dfdadb98ab682.js",
-    "service-worker.js": "matthew-dw.github.io/service-worker.js",
-    "static/css/main.648fd7ce.chunk.css.map": "matthew-dw.github.io/static/css/main.648fd7ce.chunk.css.map"
+    "main.css": "matthew-dw.github.io/portfolio/static/css/main.648fd7ce.chunk.css",
+    "main.js": "matthew-dw.github.io/portfolio/static/js/main.3709f279.chunk.js",
+    "main.js.map": "matthew-dw.github.io/portfolio/static/js/main.3709f279.chunk.js.map",
+    "runtime~main.js": "matthew-dw.github.io/portfolio/static/js/runtime~main.b718e191.js",
+    "runtime~main.js.map": "matthew-dw.github.io/portfolio/static/js/runtime~main.b718e191.js.map",
+    "static/js/2.fdd85f1c.chunk.js": "matthew-dw.github.io/portfolio/static/js/2.fdd85f1c.chunk.js",
+    "static/js/2.fdd85f1c.chunk.js.map": "matthew-dw.github.io/portfolio/static/js/2.fdd85f1c.chunk.js.map",
+    "index.html": "matthew-dw.github.io/portfolio/index.html",
+    "precache-manifest.cc49dada31a591227dc441aa6bd63a55.js": "matthew-dw.github.io/portfolio/precache-manifest.cc49dada31a591227dc441aa6bd63a55.js",
+    "service-worker.js": "matthew-dw.github.io/portfolio/service-worker.js",
+    "static/css/main.648fd7ce.chunk.css.map": "matthew-dw.github.io/portfolio/static/css/main.648fd7ce.chunk.css.map"
   }
 }
