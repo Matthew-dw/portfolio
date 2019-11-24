@@ -12,7 +12,7 @@ import Content from './components/Content'
 function App() {
 	return (
     	<div className='main'>
-		<Router>
+		<Router basename={process.env.PUBLIC_URL} >
 			<Switch>
 				<Route path="/home">
 					<Content/>
