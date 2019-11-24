@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.648fd7ce.chunk.css",
-    "main.js": "/static/js/main.3709f279.chunk.js",
-    "main.js.map": "/static/js/main.3709f279.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.fdd85f1c.chunk.js": "/static/js/2.fdd85f1c.chunk.js",
-    "static/js/2.fdd85f1c.chunk.js.map": "/static/js/2.fdd85f1c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.769537bb887cb8ed3d9057bf88e015d3.js": "/precache-manifest.769537bb887cb8ed3d9057bf88e015d3.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.648fd7ce.chunk.css.map": "/static/css/main.648fd7ce.chunk.css.map"
+    "main.css": "www.matthewwilliams.ca/static/css/main.648fd7ce.chunk.css",
+    "main.js": "www.matthewwilliams.ca/static/js/main.3709f279.chunk.js",
+    "main.js.map": "www.matthewwilliams.ca/static/js/main.3709f279.chunk.js.map",
+    "runtime~main.js": "www.matthewwilliams.ca/static/js/runtime~main.1851712c.js",
+    "runtime~main.js.map": "www.matthewwilliams.ca/static/js/runtime~main.1851712c.js.map",
+    "static/js/2.fdd85f1c.chunk.js": "www.matthewwilliams.ca/static/js/2.fdd85f1c.chunk.js",
+    "static/js/2.fdd85f1c.chunk.js.map": "www.matthewwilliams.ca/static/js/2.fdd85f1c.chunk.js.map",
+    "index.html": "www.matthewwilliams.ca/index.html",
+    "precache-manifest.98578a3885a5b23f5d6f440615901a05.js": "www.matthewwilliams.ca/precache-manifest.98578a3885a5b23f5d6f440615901a05.js",
+    "service-worker.js": "www.matthewwilliams.ca/service-worker.js",
+    "static/css/main.648fd7ce.chunk.css.map": "www.matthewwilliams.ca/static/css/main.648fd7ce.chunk.css.map"
   }
 }
