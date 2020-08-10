@@ -1,27 +1,14 @@
 import React from 'react';
-import {
-	BrowserRouter as Router,
-	Switch,
-	Route,
-} from "react-router-dom";
 
 // Components
-import Intro from './components/Intro';
-import Content from './components/Content'
+import Title from './components/Title';
 
 function App() {
 	return (
-    	<div className='main'>
-		<Router basename={process.env.PUBLIC_URL} >
-			<Switch>
-				<Route path="/home">
-					<Content/>
-				</Route>
-				<Route path="/">
-					<Intro setView={0}/>
-				</Route>
-			</Switch>
-		</Router>
+    	<div className="main">
+			<Title />
+			<div className="content">
+			</div>
 		</div>
   	);
 }
