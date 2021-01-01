@@ -1,6 +1,6 @@
 .name {
     font-family: 'Righteous', cursive;
-    color: rgb(49, 49, 49);
+    
     position: fixed;
     font-size: 100px;
     width: inherit;
@@ -8,8 +8,6 @@
     user-select: none;
 }
 .name-animation {
-    width: 420px;
-    height: 118px;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -47,5 +45,34 @@
     border-radius: 100px;
     width: 100px;
     height: 100px;
-    
+    line-height: 100px;
+    text-align: center;
+    font-size: 50px;
+    cursor: pointer;
+    transition: ease-in 0.2s;
+    animation-name: example;
+     animation-duration: 4s;
+}
+.title-main-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgb(49, 49, 49);
+    transition: ease-in-out 0.8s;
+}
+.title-name-container {
+    height: 230px;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+.title-buttons-container {
+    width: 500px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
 }

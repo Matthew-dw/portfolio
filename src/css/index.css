@@ -30,29 +30,13 @@ a {
     background: white;
     width: 100%;
     min-height: 120vh;
-    z-index: 0;
 }
-.title-main-container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+
+.invisible {
+    opacity: 0;
+}
+.content {
     height: 100vh;
-    z-index: 1;
-    overflow-x: hidden;
-}
-.title-name-container {
-    height: 250px;
-    display: flex;
-    justify-content: flex-start;
-    flex-direction: column;
-}
-.title-buttons-container {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
     width: 80%;
-    align-items: center;
-    z-index: 1;
-    overflow-x: hidden;
+    background: black;
 }
