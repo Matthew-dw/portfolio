@@ -1,15 +1,17 @@
-import React from 'react';
+import React, {useState} from 'react';
 
 // Components
-import Title from './components/Title';
+import {Container} from '@material-ui/core'
+import Title from './components/Title'
+import Content from './components/Content'
 
 function App() {
-	return (
-    	<div className="main">
-			<Title />
-			<div className="content">
-			</div>
-		</div>
+	const [displayContent, setDisplayContent] = useState(0)
+	return ( 
+    	<Container fixed overflow="visible" style={{display: 'flex', flexDirection: 'row', justifyContent: 'flex-start'}}>
+			<Title setDisplayContent={setDisplayContent} />
+			{displayContent === 0 && <Content />}
+		</Container>
   	);
 }
 
