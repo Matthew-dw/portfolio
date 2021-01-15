@@ -30,6 +30,13 @@ a {
     background: white;
     width: 100%;
     min-height: 120vh;
+<<<<<<< HEAD
+=======
+}
+
+.invisible {
+    opacity: 0;
+>>>>>>> 30cb995a8b3e251fdc539979d65a777e47a25fb4
 }
 .content {
     height: 100vh;

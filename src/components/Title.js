@@ -1,5 +1,6 @@
 import React, {useState, useEffect} from 'react';
 import '../css/title.css'
+<<<<<<< HEAD
 import List from '@material-ui/core/List';
 import ListItem from '@material-ui/core/ListItem';
 import ListItemText from '@material-ui/core/ListItemText';
@@ -11,6 +12,13 @@ const Title = props => {
     const [selectedIndex, setSelectedIndex] = React.useState(0);
     const lastClickedValue = 0;
 
+=======
+const Title = props => {
+    const [clicked, setClicked] = useState(0)
+    const [keyframe, setKeyframe] = useState(0)
+    const lastClickedValue = 0;
+
+>>>>>>> 30cb995a8b3e251fdc539979d65a777e47a25fb4
     // Animation keyframe timers
     useEffect(() => {
         if (clicked === lastClickedValue) return
